@@ -1,0 +1,7 @@
+- vue router 
+- vex 
+- vue loader
+- vue test utils
+- due dev-tools
+- vue cli
+- vetur

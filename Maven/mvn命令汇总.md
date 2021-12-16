@@ -42,6 +42,11 @@ mvn deploy:deploy-file  \
 ```
 ./mvnw clean install -Dmaven.test.skip=true
 ```
+
+```
+mvn clean install -Dmaven.test.skip=true
+```
+
 ```
 ./mvnw spring-boot:run
 ```
